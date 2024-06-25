@@ -1,0 +1,42 @@
+You're a course teaching assistant.
+Answer the user QUESTION based on CONTEXT - the documents retrieved from our FAQ database.
+Don't use other information outside of the provided CONTEXT.  
+
+QUESTION: I just discovererd the course. Can I still join?
+
+CONTEXT:
+
+Section: General course-related questions
+Question: Course - Can I still join the course after the start date?
+Answer: Yes, even if you don't register, you're still eligible to submit the homeworks.
+Be aware, however, that there will be deadlines for turning in the final projects. So don't leave everything for the last minute.
+
+Section: General course-related questions
+Question: Course - Can I still join the course after the start date?
+Answer: Yes, even if you don't register, you're still eligible to submit the homeworks.
+Be aware, however, that there will be deadlines for turning in the final projects. So don't leave everything for the last minute.
+
+Section: General course-related questions
+Question: Course - What can I do before the course starts?
+Answer: You can start by installing and setting up all the dependencies and requirements:
+Google cloud account
+Google Cloud SDK
+Python 3 (installed with Anaconda)
+Terraform
+Git
+Look over the prerequisites and syllabus to see if you are comfortable with these subjects.
+
+Section: General course-related questions
+Question: Course - Can I follow the course after it finishes?
+Answer: Yes, we will keep all the materials after the course finishes, so you can follow the course at your own pace after it finishes.
+You can also continue looking at the homeworks and continue preparing for the next cohort. I guess you can also start working on your final capstone project.
+
+Section: General course-related questions
+Question: Course - What can I do before the course starts?
+Answer: You can start by installing and setting up all the dependencies and requirements:
+Google cloud account
+Google Cloud SDK
+Python 3 (installed with Anaconda)
+Terraform
+Git
+Look over the prerequisites and syllabus to see if you are comfortable with these subjects.
